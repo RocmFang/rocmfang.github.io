@@ -14,11 +14,11 @@ Peng Fang, Fang Wang, Zhan Shi, Dan Feng, Qianxu. Yi, Xianghao Xu, Yongxuan Zhan
 
 Yutong Wu, Zhan Shi, Shicai Huang, Zhipeng Tian, Pengwei Zuo, Peng Fang, Fang Wang, Dan Feng. SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks. In: Proceedings of the 2023 USENIX Annual Technical Conference, USENIX ATC 2023（CCF A）
 
-Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Peng Fang. GraphSD: A State and Dependency aware Out-of-Core Graph Processing System. In: Proceedings of the 51st International Conference on Parallel Processing, ICPP 2022（CCF B类）
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Peng Fang. GraphSD: A State and Dependency aware Out-of-Core Graph Processing System. In: Proceedings of the 51st International Conference on Parallel Processing, ICPP 2022（CCF B）
 
-Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang, Peng Fang. GraphCP: An I/O-Efficient Concurrent Graph Processing Framework. In: IEEE/ACM 29th International Symposium on Quality of Service, IWQoS 2021, （CCF B类）
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang, Peng Fang. GraphCP: An I/O-Efficient Concurrent Graph Processing Framework. In: IEEE/ACM 29th International Symposium on Quality of Service, IWQoS 2021, （CCF B）
 
-Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Peng Fang. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. Frontiers of Computer Science (FCS), 2024（CCF B类）
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Peng Fang. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. Frontiers of Computer Science (FCS), 2024（CCF B）
 
 Yongxuan Zhang, Fang Wang, Feng Dan, Xianghao Xu, Peng Fang. HOSA: Fast Distributed Triangle Enumerating on Tera-Edge Graphs. In: Proceedings of the 4th High Performance Computing and Cluster Technologies Conference, HPCCT 2020
 
