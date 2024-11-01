@@ -2,7 +2,7 @@
 # 📝 Publications 
 **Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2024（CCF A）
 
-  Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang^**, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ICDE 2024（CCF A，*Corresponding Author）
+  Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang***, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ICDE 2024（CCF A，*Corresponding Author）
 
 **Peng Fang**, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Zhenli Li, Wei Yin, Yuchao Cao. Distributed Graph Embedding with Information-Oriented Random Walks. In: Proceedings of the 49th International Conference on Very Large Data Bases, VLDB 2023（CCF A）
 
