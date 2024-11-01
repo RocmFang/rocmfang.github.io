@@ -23,7 +23,7 @@ google_analytics_id      : G-SWFCX99KQZ
 author:
   name             : "Peng Fang (方鹏)"
   avatar           : "images/github.jpg"
-  bio              : "HUST"
+  bio              : #"HUST"
   location         : "China"
   employer         :
   pubmed           : 
