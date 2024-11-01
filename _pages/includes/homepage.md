@@ -1,5 +1,4 @@
 # 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
-- Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
-- DBLP: https://dblp.org/pid/75/6568-6.html
+- Personal Pages: https://rocmfang.github.io (updated recently🔥)
+- Google Scholar: https://scholar.google.com/citations?user=YP2cGtMAAAAJ&hl=zh-CN
+- DBLP: https://dblp.uni-trier.de/pid/86/9628-2.html
