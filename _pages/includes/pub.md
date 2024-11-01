@@ -2,23 +2,23 @@
 # 📝 Publications 
 **Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2024（CCF A）
 
-  Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang***, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ICDE 2024（CCF A，*Corresponding Author）
+Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang***, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ICDE 2024（CCF A，*Corresponding Author）
+
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, **Peng Fang**. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. Frontiers of Computer Science (FCS), 2024（CCF B）
 
 **Peng Fang**, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Zhenli Li, Wei Yin, Yuchao Cao. Distributed Graph Embedding with Information-Oriented Random Walks. In: Proceedings of the 49th International Conference on Very Large Data Bases, VLDB 2023（CCF A）
 
-**Peng Fang**, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Lei Yang. HuGE: An Entropy-Driven Approach to Efficient and Scalable Graph Embeddings. In: Proceedings of the 37th IEEE International Conference on Data Engineering, ICDE 2021,（CCF A）
-
 **Peng Fang**, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Xianghao Xu, Wei Yin. How to Realize Efficient and Scalable Graph Embeddings via an Entropy-driven Mechanism. IEEE Transactions on Big Data (IEEE TBD), 2023
-
-**Peng Fang**, Fang Wang, Zhan Shi, Dan Feng, Qianxu. Yi, Xianghao Xu, Yongxuan Zhang. An Efficient Memory Data Organization Strategy for Application-Characteristic Graph Processing. Frontiers of Computer Science (FCS), 2022（CCF B）
 
 Yutong Wu, Zhan Shi, Shicai Huang, Zhipeng Tian, Pengwei Zuo, **Peng Fang**, Fang Wang, Dan Feng. SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks. In: Proceedings of the 2023 USENIX Annual Technical Conference, USENIX ATC 2023（CCF A）
 
+**Peng Fang**, Fang Wang, Zhan Shi, Dan Feng, Qianxu. Yi, Xianghao Xu, Yongxuan Zhang. An Efficient Memory Data Organization Strategy for Application-Characteristic Graph Processing. Frontiers of Computer Science (FCS), 2022（CCF B）
+
 Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, **Peng Fang**. GraphSD: A State and Dependency aware Out-of-Core Graph Processing System. In: Proceedings of the 51st International Conference on Parallel Processing, ICPP 2022（CCF B）
 
-Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang, **Peng Fang**. GraphCP: An I/O-Efficient Concurrent Graph Processing Framework. In: IEEE/ACM 29th International Symposium on Quality of Service, IWQoS 2021, （CCF B）
+**Peng Fang**, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Lei Yang. HuGE: An Entropy-Driven Approach to Efficient and Scalable Graph Embeddings. In: Proceedings of the 37th IEEE International Conference on Data Engineering, ICDE 2021,（CCF A）
 
-Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, **Peng Fang**. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. Frontiers of Computer Science (FCS), 2024（CCF B）
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang, **Peng Fang**. GraphCP: An I/O-Efficient Concurrent Graph Processing Framework. In: IEEE/ACM 29th International Symposium on Quality of Service, IWQoS 2021, （CCF B）
 
 Yongxuan Zhang, Fang Wang, Feng Dan, Xianghao Xu, **Peng Fang**. HOSA: Fast Distributed Triangle Enumerating on Tera-Edge Graphs. In: Proceedings of the 4th High Performance Computing and Cluster Technologies Conference, HPCCT 2020
 
