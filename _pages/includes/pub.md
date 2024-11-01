@@ -4,7 +4,7 @@ Peng Fang, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Information
 
   Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, Peng Fang*, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ICDE 2024（CCF A，*Corresponding Author）
 
-Peng Fang, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Zhenli Li, Wei Yin, Yuchao Cao. Distributed Graph Embedding with Information-Oriented Random Walks. In: Proceedings of the 49th International Conference on Very Large Data Bases, VLDB 2023（CCF A类）
+Peng Fang, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Zhenli Li, Wei Yin, Yuchao Cao. Distributed Graph Embedding with Information-Oriented Random Walks. In: Proceedings of the 49th International Conference on Very Large Data Bases, VLDB 2023（CCF A）
 
 Peng Fang, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Lei Yang. HuGE: An Entropy-Driven Approach to Efficient and Scalable Graph Embeddings. In: Proceedings of the 37th IEEE International Conference on Data Engineering, ICDE 2021,（CCF A类）
 
