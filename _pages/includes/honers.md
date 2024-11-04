@@ -1,6 +1,6 @@
 # 🎖 Honors and Awards
 - *2024* BESC 10th Anniversary Research Contribution Award
-- *2022* China Optics Valley Rising Star Scholarship, awarded to the top 0.1% of Ph.D. students at Huazhong University of Science and Technology
+- *2022* China Optics Valley Rising Star Scholarship
 - *2017* National Scholarship for Graduate Students
 
 
