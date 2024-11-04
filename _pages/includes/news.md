@@ -1,7 +1,7 @@
 # 🔥 News
 - *2024.09*: ✋ I am honored to serve as a Program Committee member for **EDBT 2026**!
 - *2024.09*: 🎖️ Our paper titled "Does ideology affect the tone of international news coverage?" presemted at BESC 2017 has been awarded the **Research Contribution Award**!
-- *2024.07*  🎉 Our paper titled "Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding" is accepted by **IEEE TKDE**!
+- *2024.07*:  🎉 Our paper titled "Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding" is accepted by **IEEE TKDE**!
 
 <!--
 - *2023.05*: 🎉 Five papers are accepted by ACL 2023
