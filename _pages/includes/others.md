@@ -11,6 +11,6 @@
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
 -->
 # 💬 Invited Talks
-- *2024.08*, 2024 'Intelligent Computing' National Postdoctoral Academic Forum, "Efficient and Scalable Large-scale Graph Learning Systems"
+- *2024.08*, National Postdoctoral Academic Forum on Intelligent Computing, "Efficient and Scalable Large-scale Graph Learning Systems"
 - *2023.09*, The 29th National Conference on Information Storage Technology (NCIS 2023) Outstanding Ph.D. Student Forum, "Information-Oriented Random Walks for Large-Scale Graph Representation Learning"
 - *2023.08*, The 49th International Conference on Very Large Data Bases (VLDB 2023), "Distributed Graph Embedding with Information-Oriented Random Walks"
