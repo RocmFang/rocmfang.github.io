@@ -10,50 +10,48 @@ Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan 
 <a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>                              
 
 Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, **Peng Fang**. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. ***Frontiers of Computer Science (FCS)***, 2024 
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a> 
+<a href="https://ranger.uta.edu/~jiang/publication/Journals/2024/FoC(A%20Disk%20IO,%20Xianghao%20Xu).pdf"><img src="../../images/pdf.png" alt="Article Link" width="20"></a> 
 
 **Peng Fang**, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Zhenli Li, Wei Yin, Yuchao Cao. Distributed Graph Embedding with Information-Oriented Random Walks. In: Proceedings of the 49th International Conference on Very Large Data Bases, ***VLDB 2023***
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
-<a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="20"></a>
+<a href="https://vldb.org/pvldb/vol16/p1643-fang.pdf"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://github.com/RocmFang/DistGER"><img src="../../images/github-64.png" alt="Code Repository" width="20"></a>
 
 **Peng Fang**, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Xianghao Xu, Wei Yin. How to Realize Efficient and Scalable Graph Embeddings via an Entropy-driven Mechanism. ***IEEE Transactions on Big Data (IEEE TBD)***, 2023
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
-<a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="20"></a>
+<a href="https://ieeexplore.ieee.org/document/9749008"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 Yutong Wu, Zhan Shi, Shicai Huang, Zhipeng Tian, Pengwei Zuo, **Peng Fang**, Fang Wang, Dan Feng. SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks. In: Proceedings of the 2023 USENIX Annual Technical Conference, ***USENIX ATC 2023***
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
-<a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="20"></a>
+<a href="https://www.usenix.org/system/files/atc23-wu.pdf"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 **Peng Fang**, Fang Wang, Zhan Shi, Dan Feng, Qianxu. Yi, Xianghao Xu, Yongxuan Zhang. An Efficient Memory Data Organization Strategy for Application-Characteristic Graph Processing. ***Frontiers of Computer Science (FCS)***, 2022
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a> 
+<a href="https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=28461"><img src="../../images/pdf.png" alt="Article Link" width="20"></a> 
 
 Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, **Peng Fang**. GraphSD: A State and Dependency aware Out-of-Core Graph Processing System. In: Proceedings of the 51st International Conference on Parallel Processing, ***ICPP 2022***
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3545008.3545039"><img src="../../images/pdf.png" alt="Article Link" width="20"></a> 
 
 **Peng Fang**, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Lei Yang. HuGE: An Entropy-Driven Approach to Efficient and Scalable Graph Embeddings. In: Proceedings of the 37th IEEE International Conference on Data Engineering, ***ICDE 2021***
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
-<a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="20"></a
+<a href="https://ieeexplore.ieee.org/document/9458787"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://github.com/RocmFang/HuGE"><img src="../../images/github-64.png" alt="Code Repository" width="20"></a>
 
 Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang, **Peng Fang**. GraphCP: An I/O-Efficient Concurrent Graph Processing Framework. In: IEEE/ACM 29th International Symposium on Quality of Service, ***IWQoS 2021***
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9521293"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 Yongxuan Zhang, Fang Wang, Feng Dan, Xianghao Xu, **Peng Fang**. HOSA: Fast Distributed Triangle Enumerating on Tera-Edge Graphs. In: Proceedings of the 4th High Performance Computing and Cluster Technologies Conference, ***HPCCT 2020***
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3409501.3409507"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 Jianbo Gao, **Peng Fang**, Lihua Yuan. Analyses of geographical observations in the Heihe River Basin: Perspectives from complexity theory. ***Journal of Geographical Sciences***, 2019, 29(9):1441-1461
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://gda.bnu.edu.cn/docs/20200116103929340986.pdf"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 **Peng Fang**, Menglan Ma, Jianbo Gao, Dynamic Evolution of Multinational Relation’s Network in the South China Sea Arbitration Based on Massive Media Data Analysis. ***PCMM 2018***
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
-
-**Peng Fang**, Jianbo Gao, Fangli Fan, Luhai Yang. Identifying Political “hot” Spots Through Massive Media Data Analysis. ***SBP-BRiMS 2016***, Washington, DC, USA, 2016: 282-290
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://dpi-journals.com/index.php/dtcse/article/view/23735"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 Jianbo Gao, **Peng Fang**, Feiyan Liu. Empirical scaling law connecting persistence and severity of global terrorism. ***Physica A Statistical Mechanics & Its Applications***, 2017, 482
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437117303357"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 Menglan Ma, **Peng Fang**, Jianbo Gao, Changqing Song. Does ideology affect the tone of international news coverage? ***IEEE BESC 2017***（**Best Paper Award**）
-<a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8256368/"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
+
+**Peng Fang**, Jianbo Gao, Fangli Fan, Luhai Yang. Identifying Political “hot” Spots Through Massive Media Data Analysis. ***SBP-BRiMS 2016***, Washington, DC, USA, 2016: 282-290
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-39931-7_27"><img src="../../images/pdf.png" alt="Article Link" width="20"></a>
 
 
 <!--
