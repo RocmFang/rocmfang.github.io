@@ -47,7 +47,7 @@ Jianbo Gao, **Peng Fang**, Lihua Yuan. Analyses of geographical observations in 
 Jianbo Gao, **Peng Fang**, Feiyan Liu. Empirical scaling law connecting persistence and severity of global terrorism. ***Physica A Statistical Mechanics & Its Applications***, 2017, 482
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437117303357"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 
-Menglan Ma, **Peng Fang**, Jianbo Gao, Changqing Song. Does ideology affect the tone of international news coverage? ***IEEE BESC 2017***（**Best Paper Award**）
+Menglan Ma, **Peng Fang**, Jianbo Gao, Changqing Song. Does ideology affect the tone of international news coverage? ***IEEE BESC 2017***（**Best Paper Award**, **10th Anniversary Research Contribution Award**）
 <a href="https://ieeexplore.ieee.org/abstract/document/8256368/"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 
 **Peng Fang**, Jianbo Gao, Fangli Fan, Luhai Yang. Identifying Political “hot” Spots Through Massive Media Data Analysis. ***SBP-BRiMS 2016***, Washington, DC, USA, 2016: 282-290
