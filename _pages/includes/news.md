@@ -6,7 +6,7 @@
 - *2024.07*: 🎯 I have been supported by the **Postdoctoral Fellowship Program of China Postdoctoral Science Foundation**!
 - *2024.07*: 🎯 I have been awarded a **fellowship from the China Postdoctoral Science Foundation**!
 - *2024.05*: ✋ I am honored to serve as a Program Committee member for **LLM+KG workshop, co-located with the VLDB 2024**!
-- *2024.02*: 🎉 Our paper on space-time trade-offs for key-value separated LSM-trees has been accepted by **ICDE 2024**! Congrats to Shunzi!
+- *2024.03*: 🎉 Our paper on space-time trade-offs for key-value separated LSM-trees has been accepted by **ICDE 2024**! Congrats to Shunzi!
 
 
 <!--
