@@ -1,4 +1,3 @@
-
 # 📝 Publications 
 **Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng,  
 *Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding,*  
