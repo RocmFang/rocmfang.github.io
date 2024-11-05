@@ -1,7 +1,5 @@
 # 📝 Publications 
-**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng,  
-*Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding,*  
-***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2024
+**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, *Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2024
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
