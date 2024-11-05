@@ -1,9 +1,9 @@
 # 📝 Publications 
-**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, *Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2024
+**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2024
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
-Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang***, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ***ICDE 2024*** (***Corresponding Author**)
+Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang**, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ***ICDE 2024*** (***Corresponding Author**)
 <a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>                              
 
 Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, **Peng Fang**. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. ***Frontiers of Computer Science (FCS)***, 2024 
