@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.09*: 🎖️ My doctoral thesis "***Efficient and Scalable Large-Scale Graph Representation Learning***" has been nominated for the 2024 **CCF Information Storage Technology Award Doctoral Dissertation Award**!
+- *2024.09*: 🎖️ My doctoral thesis "***Efficient and Scalable Large-Scale Graph Representation Learning***" has been nominated for the **Doctoral Dissertation Award in CCF Information Storage Technology 2024**!
 - *2024.10*: ✋ I am honored to serve as a Program Committee member for **ICDE 2025 Demonstration Track**!
 - *2024.09*: ✋ I am honored to serve as a Program Committee member for **EDBT 2026**!
 - *2024.09*: 🎖️ Our paper titled “***Does Ideology Affect the Tone of International News Coverage?***” presented at **BESC 2017** has been awarded the **BESC 10th Anniversary Research Contribution Award**! Congrats to Prof. Gao and Menglan!
